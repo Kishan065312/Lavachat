@@ -1,3 +1,11 @@
-<resources>
+<!-- <resources>
     <string name="app_name">Lavachat</string>
+</resources> -->
+<resources>
+    <string name="app_name">Lava</string>
+
+    <!-- ADD THESE -->
+    <string name="facebook_app_id">2282849058849126</string>
+    <string name="facebook_client_token">bbee8236948f08436d8137082416918</string>
+    <string name="fb_login_protocol_scheme">fb2282849058849126</string>
 </resources>

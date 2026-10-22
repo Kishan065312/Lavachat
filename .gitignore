@@ -73,3 +73,10 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# Build logs and temp files
+*.log
+*log*.txt
+*.bin
+*.class
+.agent/

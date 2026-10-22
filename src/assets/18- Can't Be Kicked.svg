@@ -1,0 +1,81 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="18- Can&#39;t Be Kicked ">
+<g id="Group 164">
+<g id="Clip path group">
+<mask id="mask0_66_1225" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="44" y="37" width="176" height="180">
+<g id="8aaea11cf0">
+<path id="Vector" d="M44.9922 37H219.993V217H44.9922V37Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_66_1225)">
+<g id="Group">
+<g id="Group_2">
+<g id="Clip path group_2">
+<mask id="mask1_66_1225" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="44" y="37" width="176" height="180">
+<g id="9492100dc3">
+<path id="Vector_2" d="M219.993 37H44.332V217H219.993V37Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask1_66_1225)">
+<g id="Group_3">
+<g id="Clip path group_3">
+<mask id="mask2_66_1225" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="57" y="38" width="108" height="178">
+<g id="7091fd4f6d">
+<path id="Vector_3" d="M57.9463 38.6664H164.101V215.333H57.9463V38.6664Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask2_66_1225)">
+<g id="Group_4">
+<path id="Vector_4" d="M151.027 177.762H120.565V76.2707H151.027V102.905H163.861V67.8006C163.861 63.6274 161.163 60.1964 157.826 60.1964H120.565V44.2264C120.565 40.2615 117.311 37.6378 114.4 39.2459L62.848 68.2303C59.8954 69.897 57.9668 73.5363 57.9668 77.6118V176.472C57.9668 180.489 59.8954 184.187 62.848 185.854L114.4 214.786C117.311 216.394 120.565 213.771 120.565 209.799V193.836H157.826C161.163 193.836 163.861 190.405 163.861 186.225V151.127H151.027V177.762Z" fill="url(#paint0_linear_66_1225)"/>
+</g>
+</g>
+</g>
+<g id="Clip path group_4">
+<mask id="mask3_66_1225" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="128" y="90" width="91" height="76">
+<g id="a40a86324f">
+<path id="Vector_5" d="M128.17 90.3331H218.729V165.333H128.17V90.3331Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask3_66_1225)">
+<g id="Group_5">
+<path id="Vector_6" d="M217.107 122.892L186.286 91.5569C183.505 88.7314 179.352 91.2054 179.352 95.6911V113.627H132.728C130.732 113.627 129.115 115.652 129.115 118.145V135.906C129.115 138.399 130.732 140.418 132.728 140.418H179.352V158.36C179.352 162.839 183.505 165.32 186.286 162.494L217.107 131.16C219.202 129.024 219.202 125.02 217.107 122.892Z" fill="url(#paint1_linear_66_1225)"/>
+</g>
+</g>
+</g>
+<g id="Clip path group_5">
+<mask id="mask4_66_1225" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="44" y="38" width="175" height="178">
+<g id="33de54d49a">
+<path id="Vector_7" d="M44.9922 38.3606H218.73V215.45H44.9922V38.3606Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask4_66_1225)">
+<g id="Group_6">
+<path id="Vector_8" d="M53.4395 68.6471L49.9683 74.9288L184.641 191.654L188.112 185.372L191.583 179.091L56.9106 62.3654L53.4395 68.6471Z" fill="#F5F5F5"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<path id="Line 3" d="M36.9999 58.9592L35.0606 62.4814L188.243 194.453L190.183 190.93L192.122 187.408L38.9391 55.4369L36.9999 58.9592Z" fill="url(#paint2_linear_66_1225)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_66_1225" x1="292.7" y1="38.7656" x2="292.7" y2="415.301" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D8A44A"/>
+<stop offset="1" stop-color="#F6BF62"/>
+</linearGradient>
+<linearGradient id="paint1_linear_66_1225" x1="327.646" y1="90.3555" x2="327.646" y2="246.813" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D8A44A"/>
+<stop offset="1" stop-color="#F6BF62"/>
+</linearGradient>
+<linearGradient id="paint2_linear_66_1225" x1="373.406" y1="356.896" x2="366.206" y2="364.844" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D8A44A"/>
+<stop offset="1" stop-color="#F6BF62"/>
+</linearGradient>
+</defs>
+</svg>

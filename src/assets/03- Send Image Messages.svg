@@ -1,0 +1,11 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="03- Send Image Messages">
+<path id="Icon" d="M58 218C52.5 218 47.7917 216.042 43.875 212.125C39.9583 208.208 38 203.5 38 198V58C38 52.5 39.9583 47.7917 43.875 43.875C47.7917 39.9583 52.5 38 58 38H198C203.5 38 208.208 39.9583 212.125 43.875C216.042 47.7917 218 52.5 218 58V198C218 203.5 216.042 208.208 212.125 212.125C208.208 216.042 203.5 218 198 218H58ZM68 178H188L150.5 128L120.5 168L98 138L68 178Z" fill="url(#paint0_linear_66_1210)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_66_1210" x1="437" y1="38" x2="437" y2="422" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D8A44A"/>
+<stop offset="1" stop-color="#F6BF62"/>
+</linearGradient>
+</defs>
+</svg>

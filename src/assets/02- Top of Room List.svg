@@ -1,0 +1,11 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="02- Top of Room List">
+<path id="Icon" d="M38 58V38H218V58H38ZM116.75 218V116L87.5 142L71.75 128L128 78L184.25 128L168.5 142L139.25 116V218H116.75Z" fill="url(#paint0_linear_66_1209)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_66_1209" x1="437" y1="38" x2="437" y2="422" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D8A44A"/>
+<stop offset="1" stop-color="#F6BF62"/>
+</linearGradient>
+</defs>
+</svg>
